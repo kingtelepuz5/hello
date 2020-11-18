@@ -1,4 +1,4 @@
-
+new string
 Я написал еще одну строчку
 YA SNOVA CHTOTO PISHY 
 SNOVA
